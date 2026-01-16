@@ -1,5 +1,5 @@
-import Navbar from "../../components/Navbar/navbar";
-import Footer from "../../components/Footer/footer";
+import Navbar from "src/components/Navbar/navbar.jsx";
+import Footer from "src/components/Footer/footer.jsx";
 import bgImage from "../../assets/netflix_bg_image.PNG";
 import Trending from "src/pages/TrendingPage/TremdingPage";
 import Reasons from "src/pages/Reasons/Reasons";
