@@ -1,9 +1,9 @@
-import Navbar from "src/components/Navbar/Navbar.jsx";
-import Footer from "src/components/Footer/footer.jsx";
+import Navbar from "../../components/Navbar/navbar.jsx";
+import Footer from "../../components/Footer/footer.jsx";
 import bgImage from "../../assets/netflix_bg_image.PNG";
-import Trending from "src/pages/TrendingPage/TremdingPage";
-import Reasons from "src/pages/Reasons/Reasons";
-import Faqs from "src/pages/FAQs/Faqs";
+import Trending from "../TrendingPage/TremdingPage";
+import Reasons from "../Reasons/Reasons";
+import Faqs from "../FAQs/Faqs";
 
 const Home = () => {
   return (
