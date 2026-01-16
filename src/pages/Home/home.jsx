@@ -1,4 +1,4 @@
-import Navbar from "src/components/Navbar/navbar.jsx";
+import Navbar from "src/components/Navbar/Navbar.jsx";
 import Footer from "src/components/Footer/footer.jsx";
 import bgImage from "../../assets/netflix_bg_image.PNG";
 import Trending from "src/pages/TrendingPage/TremdingPage";
