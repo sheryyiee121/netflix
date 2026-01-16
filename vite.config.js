@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()],
+     assetsInclude: ['**/*.PNG'],
 
      resolve: {
     alias: {
